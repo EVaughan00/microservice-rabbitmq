@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "RvgTKw4K0MS0c+KHfNW5cfsG7lHYf/EFXWggyB2jaUHXAl+mCv9MgXuBzpdc1O55hJ/Nu198uaQCUE84SYoi2Q==",
+  "dgSpecHash": "8dxEC/okiHdNkTnrmg3YMzzmFxk28XF25EqlhgvHGVg7rPfW03YXsLV+owwjH69dhOYghx+2Lo9F1/ZpJ+bbVQ==",
   "success": true,
   "projectFilePath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
+    "/home/sudoman/.nuget/packages/mediatr/7.0.0/mediatr.7.0.0.nupkg.sha512",
     "/home/sudoman/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/sudoman/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],

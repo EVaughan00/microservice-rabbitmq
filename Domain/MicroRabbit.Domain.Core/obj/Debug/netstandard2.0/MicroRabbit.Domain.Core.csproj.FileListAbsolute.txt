@@ -1,0 +1,9 @@
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.csprojAssemblyReference.cache
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.AssemblyInfo.cs
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/bin/Debug/netstandard2.0/MicroRabbit.Domain.Core.deps.json
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/bin/Debug/netstandard2.0/MicroRabbit.Domain.Core.dll
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/bin/Debug/netstandard2.0/MicroRabbit.Domain.Core.pdb
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.dll
+/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/Debug/netstandard2.0/MicroRabbit.Domain.Core.pdb

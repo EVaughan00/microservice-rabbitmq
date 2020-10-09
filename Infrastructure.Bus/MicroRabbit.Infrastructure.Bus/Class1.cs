@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MicroRabbit.Domain.Core
+namespace MicroRabbit.Infrastructure.Bus
 {
     public class Class1
     {

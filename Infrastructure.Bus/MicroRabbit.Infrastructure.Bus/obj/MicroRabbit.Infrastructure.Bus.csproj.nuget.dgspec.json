@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/MicroRabbit.Infrastructure.Bus.csproj": {}
+    "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/MicroRabbit.Infrastructure.Bus.csproj": {}
   },
   "projects": {
-    "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+    "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "projectUniqueName": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
         "projectName": "MicroRabbit.Domain.Core",
-        "projectPath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
-        "packagesPath": "/home/sudoman/.nuget/packages/",
-        "outputPath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/",
+        "projectPath": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "/home/evaughan/.nuget/packages/",
+        "outputPath": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sudoman/.nuget/NuGet/NuGet.Config"
+          "/home/evaughan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -57,21 +57,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/home/sudoman/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/evaughan/.dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/MicroRabbit.Infrastructure.Bus.csproj": {
+    "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/MicroRabbit.Infrastructure.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/MicroRabbit.Infrastructure.Bus.csproj",
+        "projectUniqueName": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/MicroRabbit.Infrastructure.Bus.csproj",
         "projectName": "MicroRabbit.Infrastructure.Bus",
-        "projectPath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/MicroRabbit.Infrastructure.Bus.csproj",
-        "packagesPath": "/home/sudoman/.nuget/packages/",
-        "outputPath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/obj/",
+        "projectPath": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/MicroRabbit.Infrastructure.Bus.csproj",
+        "packagesPath": "/home/evaughan/.nuget/packages/",
+        "outputPath": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Infrastructure.Bus/MicroRabbit.Infrastructure.Bus/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sudoman/.nuget/NuGet/NuGet.Config"
+          "/home/evaughan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
-                "projectPath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+              "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
               }
             }
           }
@@ -106,6 +106,14 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.0, )"
             }
           },
           "imports": [
@@ -118,7 +126,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/home/sudoman/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/evaughan/.dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     }

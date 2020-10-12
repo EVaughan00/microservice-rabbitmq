@@ -203,19 +203,19 @@
     ]
   },
   "packageFolders": {
-    "/home/sudoman/.nuget/packages/": {}
+    "/home/evaughan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+      "projectUniqueName": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
       "projectName": "MicroRabbit.Domain.Core",
-      "projectPath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
-      "packagesPath": "/home/sudoman/.nuget/packages/",
-      "outputPath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/",
+      "projectPath": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+      "packagesPath": "/home/evaughan/.nuget/packages/",
+      "outputPath": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sudoman/.nuget/NuGet/NuGet.Config"
+        "/home/evaughan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -258,7 +258,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/home/sudoman/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/evaughan/.dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }

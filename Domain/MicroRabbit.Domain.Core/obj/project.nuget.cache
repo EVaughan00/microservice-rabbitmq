@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8dxEC/okiHdNkTnrmg3YMzzmFxk28XF25EqlhgvHGVg7rPfW03YXsLV+owwjH69dhOYghx+2Lo9F1/ZpJ+bbVQ==",
+  "dgSpecHash": "dWcMcnNmxbIcxIIeUaN9ir6eV5UuqZaNeJXtvPIkyNNb/R50N94pagGNpoiWrMZYHddUafy2fCwuaxq19sQgfA==",
   "success": true,
-  "projectFilePath": "/home/sudoman/Documents/Personal/Edumication/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+  "projectFilePath": "/home/evaughan/Documents/Projects/Research/microservice-rabbitmq/Domain/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
-    "/home/sudoman/.nuget/packages/mediatr/7.0.0/mediatr.7.0.0.nupkg.sha512",
-    "/home/sudoman/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/sudoman/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/home/evaughan/.nuget/packages/mediatr/7.0.0/mediatr.7.0.0.nupkg.sha512",
+    "/home/evaughan/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/evaughan/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
